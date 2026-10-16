@@ -1,0 +1,6 @@
+{
+  "name": "Cổng thông tin quản lý dự án Bình Dương",
+  "description": "Cổng thông tin điều hành & giám sát quản lý dự án Khu căn hộ Phú Hưng – Bình Dương (Chủ đầu tư Phú Mỹ Hưng, TVGS ICIC, Tổng thầu CSCEC).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
